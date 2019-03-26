@@ -4,12 +4,9 @@ Responsive admin dashboard template built with [Vue.js](https://vuejs.org) and [
 
 <p align="center">
   <a href="https://vuestic.epicmax.co" target="_blank">
-    <img src="https://i.imgur.com/pMuJVVc.png" align="center" width="888px"/>
+    <img src="https://snag.gy/ROd31q.jpg" align="center" width="888px"/>
   </a>
 </p>
-
-## Demo
-Check it out [live](https://vuestic.epicmax.co)!
 
 ## Prerequisites:
 
@@ -17,8 +14,6 @@ Check it out [live](https://vuestic.epicmax.co)!
 - npm version 3+ and [Git](https://git-scm.com/).
 - [vuestic-installer](https://github.com/epicmaxco/vuestic-installer) `npm install vuestic-installer -g`.
 
-## Browser Support
-* Latest Chrome, Firefox, Safari, Edge, IE11+
 
 ## Installation
 
