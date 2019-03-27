@@ -1,6 +1,6 @@
 # Vuestic Admin Dashboard
 
-Responsive admin dashboard template built with [Vue.js](https://vuejs.org) and [Bootstrap 4](https://v4-alpha.getbootstrap.com). Developed by [Epicmax](https://epicmax.co). Designed by [Vasili Savitski](https://xxsavitski.myportfolio.com/)
+Responsive admin dashboard template built with [Vue.js](https://vuejs.org) and [Bootstrap 4](https://v4-alpha.getbootstrap.com). 
 
 <p align="center">
   <a href="https://vuestic.epicmax.co" target="_blank">
@@ -71,6 +71,3 @@ $ npm run build --report
 * i18n
 * and many more!
 
-
-## License
-[MIT](https://github.com/epicmaxco/vuestic-admin/blob/master/LICENSE) license.
