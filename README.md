@@ -3,8 +3,14 @@
 Responsive admin dashboard template built with [Vue.js](https://vuejs.org) and [Bootstrap 4](https://v4-alpha.getbootstrap.com). 
 
 <p align="center">
-  <a href="https://vuestic.epicmax.co" target="_blank">
-    <img src="https://snag.gy/ROd31q.jpg" align="center" width="888px"/>
+  <a  target="_blank">
+    <img src="https://github.com/webninja1992/vue-admin-dashboard/blob/master/Vue1.jpg" align="center" width="888px"/>
+  </a>
+  <a  target="_blank">
+    <img src="https://github.com/webninja1992/vue-admin-dashboard/blob/master/Vue2.jpg" align="center" width="888px"/>
+  </a>
+  <a  target="_blank">
+    <img src="https://github.com/webninja1992/vue-admin-dashboard/blob/master/Vue3.jpg" align="center" width="888px"/>
   </a>
 </p>
 
