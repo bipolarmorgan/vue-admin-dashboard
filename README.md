@@ -14,13 +14,6 @@ Responsive admin dashboard template built with [Vue.js](https://vuejs.org) and [
   </a>
 </p>
 
-## Prerequisites:
-
-- [Node.js](https://nodejs.org/en/) (at least 4.x, 8.x recommended)
-- npm version 3+ and [Git](https://git-scm.com/).
-- [vuestic-installer](https://github.com/epicmaxco/vuestic-installer) `npm install vuestic-installer -g`.
-
-
 ## Installation
 
 vue-cli3 has to be installed globally. If it's not, do:
@@ -44,7 +37,7 @@ or just by cloning repo:
 ```
 
 # clone the repo
-$ git clone https://github.com/webninja1997/vue-admin-dashboard.git myproject
+$ git clone https://github.com/webninja1992/vue-admin-dashboard.git myproject
 
 # go into app's directory and install dependencies:
 $ cd myproject
