@@ -1,7 +1,6 @@
 # Vuestic Admin Dashboard
 
-Check Live Demo: 
-<a href="https://webguru-vue.herokuapp.com/#/admin/dashboard" />
+<a href="https://webguru-vue.herokuapp.com/#/admin/dashboard" > Check Live Demo </a>
 
 Responsive admin dashboard template built with [Vue.js](https://vuejs.org) and [Bootstrap 4](https://v4-alpha.getbootstrap.com). 
 
